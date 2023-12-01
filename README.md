@@ -1,3 +1,11 @@
+# New Player Aardwolf MUSHClient Package development project<br>
+
+Mission: Create a new-player-focused user interface setup for Aardwolf.
+
+
+Below this is the original author's README.md content. If you like this, check out the original repo. The main differences should only be
+ related to new plugins and layout data. If this goes out of date, the layouts and plugins will probably still work with the new stuff. :)
+
 # Aardwolf MUSHclient Package development project<br>[![Build status](https://ci.appveyor.com/api/projects/status/wlob2haa2991a8sc?svg=true)](https://ci.appveyor.com/project/fiendish/aardwolfclientpackage)
 
 Get the latest Aardwolf MUSHclient Package installer at https://fiendish.github.io/aardwolfclientpackage/
