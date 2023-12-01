@@ -2,6 +2,7 @@
 
 Mission: Create a new-player-focused user interface setup for Aardwolf.
 
+![screenshot of the client](https://github.com/tmould1/aardwolfclientpackage/assets/11467097/4ed1e90d-fab7-4eb4-828d-5140c2c0f54d)
 
 Below this is the original author's README.md content. If you like this, check out the original repo. The main differences should only be
  related to new plugins and layout data. If this goes out of date, the layouts and plugins will probably still work with the new stuff. :)
